@@ -25,7 +25,8 @@
 ### Mallinnus (edit mode)
 | Pikanäppäin                     | toiminto                                                                                                                         | 
 | ------------------------        |:--------------------------------------------------------------------------------------------------------------------------------:|
-| F                               | Create face or edge between selected                                                                                             |  | E                               | Extrude face or edge                                                                                                             |
+| F                               | Create face or edge between selected                                                                                             |
+| E                               | Extrude face or edge                                                                                                             |
 | CTRL + B                        | Bevel vertex or edge                                                                                                             | 
 | CTRL + R                        | Loopcut                                                                                                                          |
 | CTRL + F                        | Avaa facen muokkamamiseen liittyvän työkaluvalikon                                                                               | 
