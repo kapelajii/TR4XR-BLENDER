@@ -47,7 +47,7 @@
 [13Stewartc- How to Optimize a Model in Blender ](https://youtu.be/9h1b7wjY4t8)
 
 ### Opinäytetyöt
-[BLENDER-OHJELMISTON KOULUTUS RAKENNESUUNNITTELUN TUKENA](https://youtu.be/q0lunseTIvU](https://www.theseus.fi/bitstream/handle/10024/333663/jani_broo.pdf?sequence=2&isAllowed=y)
+[BLENDER-OHJELMISTON KOULUTUS RAKENNESUUNNITTELUN TUKENA](https://www.theseus.fi/bitstream/handle/10024/333663/jani_broo.pdf?sequence=2&isAllowed=y)
 
 
 
