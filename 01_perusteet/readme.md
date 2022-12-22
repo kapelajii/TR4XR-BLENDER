@@ -17,6 +17,7 @@
 | S                               | Skaalaa objektin kokoa kaikkien akseleiden suhteen (voidaan myös skaalata vain yhtä akselia syöttämällä perään X,Y tai Z         |
 | SHIFT + X,Y,Z                   | Tekee muutoksen kaikille muille akseleille paitsi valitulle (esim. G + SHIFT X = liikuttaa kappaletta vain Y j Z -suunnassa      |
 | SHIFT + D                       | Objektin monistaminen (duplicate) tekee kopion valitusta tai valituista objektista/objekteista                                   |
+| ALT + D                         | Objektin monistaminen (linked duplicate) kappaleen geometria on linkitety alkuperäiseen objektiin                                |
 | ALT + G                         | Nollaa objektin sijainnin origoon (X,Y,Z)                                                                                        |
 | ALT + R                         | Nollaa objektin kiertymän (Rx, Ry, Rz)                                                                                           |  | SHIFT + S                       | 3D kursorin valikko (cursor align)                                                                                               |
 | TAB                             | Vaihtaa näkymää object ja edit moodien välillä                                                                                   |                               
