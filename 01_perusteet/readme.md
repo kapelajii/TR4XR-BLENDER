@@ -25,14 +25,14 @@
 ### Mallinnus (edit mode)
 | Pikanäppäin                     | toiminto                                                                                                                         | 
 | ------------------------        |:--------------------------------------------------------------------------------------------------------------------------------:|
-| F                               | Create face                                                                                                                      |  | E                               | Extrude face                                                                                                                     |
+| F                               | Create face or edge between selected                                                                                             |  | E                               | Extrude face or edge                                                                                                             |
 | CTRL + B                        | Bevel vertex or edge                                                                                                             | 
 | CTRL + R                        | Loopcut                                                                                                                          |
 | CTRL + F                        | Avaa facen muokkamamiseen liittyvän työkaluvalikon                                                                               | 
 | CTRL + E                        | Avaa edgen muokkaamiseen liittyvän työkaluvalikon                                                                                | 
 | CTRL + V                        | Avaa verteksien muokkaamiseen liittyvän työkaluvalikon                                                                           | 
-| CTRL + R                        | Loopcut                                                                                                                | 
-| CTRL + R                        | Loopcut                                                                                                               | 
+| CTRL + R                        | Loopcut                                                                                                                          | 
+| CTRL + R                        | Loopcut                                                                                                                          | 
 
 ## Yleistä
 
