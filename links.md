@@ -55,7 +55,7 @@
 
 [3D Modeling Pipeline for Games- TURKU AMK 2022](https://www.theseus.fi/bitstream/handle/10024/753195/Kuusela_Verneri.pdf?sequence=2&isAllowed=y)
 
-[3D-pelien visuaalinen optimointi- LAB 2022](https://www.theseus.fi/bitstream/handle/10024/771886/Nojosaho_Eero.pdf?sequence=2&isAllowed=y))
+[3D-pelien visuaalinen optimointi- LAB 2022](https://www.theseus.fi/bitstream/handle/10024/771886/Nojosaho_Eero.pdf?sequence=2&isAllowed=y)
 
 
 
