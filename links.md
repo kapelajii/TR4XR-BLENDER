@@ -47,7 +47,13 @@
 [13Stewartc- How to Optimize a Model in Blender ](https://youtu.be/9h1b7wjY4t8)
 
 ### Opinäytetyöt
-[BLENDER-OHJELMISTON KOULUTUS RAKENNESUUNNITTELUN TUKENA](https://www.theseus.fi/bitstream/handle/10024/333663/jani_broo.pdf?sequence=2&isAllowed=y)
+[BLENDER-OHJELMISTON KOULUTUS RAKENNESUUNNITTELUN TUKENA- JAMK 2022](https://www.theseus.fi/bitstream/handle/10024/333663/jani_broo.pdf?sequence=2&isAllowed=y)
+
+[REALISTISEN 3D-YMPÄRISTÖN LUONTI UNITY-PELIMOOTTORIIN- OAMK 2022](https://www.theseus.fi/bitstream/handle/10024/743611/Rahkola_Sanni.pdf?sequence=2&isAllowed=y)
+
+[Realistinen 3D-visualisointi Blenderillä- LAB 2022](https://www.theseus.fi/bitstream/handle/10024/754905/Laajakoski_Joonas.pdf?sequence=2&isAllowed=y)
+
+[3D Modeling Pipeline for Games- TURKU AMK 2022](https://www.theseus.fi/bitstream/handle/10024/753195/Kuusela_Verneri.pdf?sequence=2&isAllowed=y)
 
 
 
