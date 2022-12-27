@@ -20,7 +20,8 @@
 | ALT + D                         | Objektin monistaminen (linked duplicate) kappaleen geometria on linkitety alkuperäiseen objektiin                                |
 | ALT + G                         | Nollaa objektin sijainnin origoon (X,Y,Z)                                                                                        |
 | ALT + R                         | Nollaa objektin kiertymän (Rx, Ry, Rz)                                                                                           |  | SHIFT + S                       | 3D kursorin valikko (cursor align)                                                                                               |
-| TAB                             | Vaihtaa näkymää object ja edit moodien välillä                                                                                   |                               
+| TAB                             | Vaihtaa näkymää object ja edit moodien välillä                                                                                   |
+|  §                              | Vaihtaa näkymän global (kaikki mallit näkyvissä) local (vain valittu objekti näkyvissä) välillä                                  |
              
 
 ### Mallinnus (edit mode)
