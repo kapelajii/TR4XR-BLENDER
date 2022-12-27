@@ -35,7 +35,7 @@
 | CTRL + E                        | Avaa edgen muokkaamiseen liittyvän työkaluvalikon                                                                                | 
 | CTRL + V                        | Avaa verteksien muokkaamiseen liittyvän työkaluvalikon                                                                           | 
 | CTRL + R                        | Loopcut                                                                                                                          | 
-| CTRL + R                        | Loopcut                                                                                                                          | 
+
 
 ## Yleistä
 
