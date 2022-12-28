@@ -54,7 +54,7 @@ Object-moodissa näkymässä olevia kappaleita voi vain liikuttaa, skaalata tai 
 
 <img src="https://raw.githubusercontent.com/kapelajii/TR4XR-BLENDER/main/01_perusteet/img/edit_mode.jpg" />
 
-Edit-moodissa objektien rakennetta pystytään muokkaamaan erilaisten työkaluen avulla
+Edit-moodissa objektien rakennetta pystytään muokkaamaan erilaisten työkaluen avulla (TAB-näppäimellä voit vaihtaa näiden kahden eri moodin välillä)
 
 
 
