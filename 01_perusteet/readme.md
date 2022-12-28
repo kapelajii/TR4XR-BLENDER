@@ -48,11 +48,13 @@ Blederin koordinaattiakselit ja niiden värit ovat seuraavat:
 
 ### Perusnäkymät (object ja edit)
 
-<img src="https://raw.githubusercontent.com/kapelajii/TR4XR-BLENDER/main/01_perusteet/img/object_mode.jpg"/>
+<img src="https://raw.githubusercontent.com/kapelajii/TR4XR-BLENDER/main/01_perusteet/img/object_mode.jpg" width="400" height="400"/>
+
 Object-moodissa näkymässä olevia kappaleita voi vain liikuttaa, skaalata tai pyöritää mutta kappaleen geometriaan ei pysty tekemään muutoksia
 
-<img src="https://raw.githubusercontent.com/kapelajii/TR4XR-BLENDER/main/01_perusteet/img/edit_mode.jpg"/>
-Edit-moodissa objekteiden rakennetta pystytään muokkaamana erilaisten työkalujen avulla
+<img src="https://raw.githubusercontent.com/kapelajii/TR4XR-BLENDER/main/01_perusteet/img/edit_mode.jpg" width="400" height="400"/>
+
+Edit-moodissa objektien rakennetta pystytään muokkaamaan erilaisten työkaluen avulla
 
 
 
