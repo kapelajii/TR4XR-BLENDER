@@ -46,7 +46,7 @@ Blederin koordinaattiakselit ja niiden värit ovat seuraavat:
 
 
 <figure>
-  <img src="/img/blender_koordinaatiosto.jpg" alt="my alt text"/>
+  <img src="/01_perusteet/img/blender_koordinaatiosto.jpg" alt="my alt text"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
 
