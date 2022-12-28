@@ -44,6 +44,12 @@ Blederin koordinaattiakselit ja niiden värit ovat seuraavat:
 - Y-akseli 🟢 (syvyys)
 - Z-akseli 🔵 (korkeus)
 
+
+<figure>
+  <img src="/img/blender_koordinaatiosto.jpg" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
 <img src="https://raw.githubusercontent.com/kapelajii/TR4XR-BLENDER/main/01_perusteet/img/blender_koordinaatiosto.jpg"/>
 
 ### Perusnäkymät (object ja edit)
