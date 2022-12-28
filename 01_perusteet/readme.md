@@ -52,8 +52,7 @@ Blederin koordinaattiakselit ja niiden värit ovat seuraavat:
 </figure>
 
 
-### Perusnäkymät (object ja edit)
-
+### Object moode 
 
 <figure>
   <img src="/01_perusteet/img/object_mode.jpg" alt="my alt text"/>
@@ -61,6 +60,7 @@ Blederin koordinaattiakselit ja niiden värit ovat seuraavat:
   <br>
 </figure>
 
+### Edit mode
 <figure>
   <img src="/01_perusteet/img/edit_mode.jpg" alt="my alt text"/>
   <figcaption>Kuva 3. Blenderin näkymä EDIT-moodissa. Tässä näkymässä objektien rakennetta pystytään muokkaamaan erilaisten työkaluen avulla (TAB-näppäimellä voit vaihtaa näiden kahden eri moodin välillä) </figcaption>
