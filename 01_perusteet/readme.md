@@ -47,11 +47,10 @@ Blederin koordinaattiakselit ja niiden värit ovat seuraavat:
 
 <figure>
   <img src="/01_perusteet/img/blender_koordinaatiosto.jpg" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
+  <figcaption>Kuva 1. Blender koordinaatisto</figcaption>
   <br>
 </figure>
 
-<img src="https://raw.githubusercontent.com/kapelajii/TR4XR-BLENDER/main/01_perusteet/img/blender_koordinaatiosto.jpg"/>
 
 ### Perusnäkymät (object ja edit)
 
