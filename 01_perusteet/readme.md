@@ -2,6 +2,8 @@
 
 ## Pikanäppäimet
 
+[Blender hotkey sheet by CGBOOST](https://www.dropbox.com/sh/49wv12ee9ioqnhf/AAA0petUow7AfNyh2Vsvmalaa?dl=0)
+
 ### Yleiset
 
 | Pikanäppäin                     | toiminto                                                                                                                         | 
