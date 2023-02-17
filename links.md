@@ -40,6 +40,8 @@
 
 [Damien Mathew - Blender modeling videos automotive](https://www.youtube.com/c/DamianMathew/videos)
 
+[CAD vs poly modeling](https://youtu.be/78swx-gl_F0)
+
 ### Mallien optimointi
 
 [My AR Studio - How to optimize 3D models in Blender ](https://youtu.be/q0lunseTIvU)
